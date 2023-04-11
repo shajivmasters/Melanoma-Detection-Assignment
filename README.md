@@ -99,20 +99,20 @@ There were three stages
   2. we did the image augumented by rotating in the second scenario 
         a. overfitting seems to be ok however the accuracy is only 50% which is a drop from 81%
         
-        Accuracy:  0.5044642686843872
-        Validation Accuracy:  0.4899328947067261
-        Loss:  1.4007394313812256
-        Validation Loss 1.4404832124710083
+           Accuracy:  0.5044642686843872
+           Validation Accuracy:  0.4899328947067261
+           Loss:  1.4007394313812256
+           Validation Loss 1.4404832124710083
         
    3. We used the module Augumentator in the 3rd scenario 
         a. Accuracy has been increased to 94% on training data has increased by using Augmentor library.
         b.Model is still overfitting from 10th Epoch
 
 
-        Accuracy:  0.9445474743843079
-        Validation Accuracy:  0.7587230801582336
-        Loss:  0.17755134403705597
-        Validation Loss 1.3874183893203735
+           Accuracy:  0.9445474743843079
+           Validation Accuracy:  0.7587230801582336
+           Loss:  0.17755134403705597
+           Validation Loss 1.3874183893203735
         
 I beleive the overfitting can be solved by add more layer,neurons or adding dropout layers. Also tuning the hyperparameter
                 
