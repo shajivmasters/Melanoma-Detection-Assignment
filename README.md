@@ -115,7 +115,7 @@ There were three stages
              Loss:  0.17755134403705597
              Validation Loss 1.3874183893203735
         
-I beleive the overfitting can be solved by add more layer,neurons or adding dropout layers. Also tuning the hyperparameter
+I beleive the overfitting can be solved by adding more layer,neurons or adding dropout layers. Also tuning the hyperparameter
                 
 
 
