@@ -99,6 +99,7 @@ There were three stages
   2. we did the image augumented by rotating in the second scenario 
         a. overfitting seems to be ok however the accuracy is only 50% which is a drop from 81%
         
+    
            Accuracy:  0.5044642686843872
            Validation Accuracy:  0.4899328947067261
            Loss:  1.4007394313812256
