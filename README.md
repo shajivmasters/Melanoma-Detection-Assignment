@@ -100,10 +100,10 @@ There were three stages
         a. overfitting seems to be ok however the accuracy is only 50% which is a drop from 81%
         
     
-           Accuracy:  0.5044642686843872
-           Validation Accuracy:  0.4899328947067261
-           Loss:  1.4007394313812256
-           Validation Loss 1.4404832124710083
+            Accuracy:  0.5044642686843872
+            Validation Accuracy:  0.4899328947067261
+            Loss:  1.4007394313812256
+            Validation Loss 1.4404832124710083
         
    3. We used the module Augumentator in the 3rd scenario 
         a. Accuracy has been increased to 94% on training data has increased by using Augmentor library.
