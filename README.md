@@ -110,10 +110,10 @@ There were three stages
         b.Model is still overfitting from 10th Epoch
 
 
-            Accuracy:  0.9445474743843079
-            Validation Accuracy:  0.7587230801582336
-            Loss:  0.17755134403705597
-            Validation Loss 1.3874183893203735
+             Accuracy:  0.9445474743843079
+             Validation Accuracy:  0.7587230801582336
+             Loss:  0.17755134403705597
+             Validation Loss 1.3874183893203735
         
 I beleive the overfitting can be solved by add more layer,neurons or adding dropout layers. Also tuning the hyperparameter
                 
