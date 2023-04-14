@@ -90,7 +90,7 @@ There were three stages
              Validation Loss 1.3874183893203735
         
 I beleive the overfitting can be solved by adding more layer,neurons or adding dropout layers. Also tuning the hyperparameter
-I tested this including some dropout and also one layer. The idea used is increase the filter and reduce the kernel and the result was recorded here in the last section and you can see it reduced some overfiting as the Accuracy increased to 95% and the Validation accuracy to 80%.BY further adding sme layer and the dropout we will be able to get a better result . 
+I tested this including some dropout and also one layer. The idea used is increase the filter and reduce the kernel and the result was recorded https://github.com/shajivmasters/Melanoma-Detection-Assignment/blob/master/Shajiv_Kalangath_nn_Final.ipynb  in the last section and you can see it reduced some overfiting as the Accuracy increased to 95% and the Validation accuracy to 80%.BY further adding sme layer and the dropout we will be able to get a better result . 
 
 
            Accuracy:  0.9502967596054077
